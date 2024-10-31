@@ -13,7 +13,7 @@ CHALLENGE
 - If the password is less than 5 characters, log out "Your password is too short!".
 */
 
-
+// Samuel Chua [A01316524]
 
 function checkPassword(password, userInput){
     
@@ -39,7 +39,7 @@ function checkPassword(password, userInput){
     }
 }
 
-
+// Change these texts as needed to run and test the code! Format is below.
 // checkPassword([password], [input]);
 
 checkPassword("potatoes", "potatoes");
